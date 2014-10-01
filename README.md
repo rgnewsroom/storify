@@ -2,7 +2,7 @@
 
 **[Test page](http://rgnewsroom.github.io/storify/) for Storify embeds.**
 
-## Instructions
+## Getting started instructions
 
 1. Login to [Storify](https://storify.com/).
 
@@ -39,3 +39,9 @@
  Here’s what it should look like when viewed in InCopy:
 
  ![incopy](https://cloud.githubusercontent.com/assets/218624/3850372/74217904-1e84-11e4-89d2-072764b1c5b3.png)
+
+## How to pick and choose content?
+
+Coming soon.
+
+
